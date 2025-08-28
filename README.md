@@ -53,9 +53,6 @@ cricbuzz_livestats/
 └── notebooks/                                                                                                                                               
     └── data_fetching.ipynb
 
-🌐 Deployment
-This app can be deployed on Streamlit Cloud or any cloud platform. All data is hosted in a remote SQL database, eliminating the need for local storage.
-
 🧪 Getting Started
 
 - Install dependencies
