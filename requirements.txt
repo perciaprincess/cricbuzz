@@ -2,3 +2,4 @@ streamlit
 pandas
 requests
 pymysql
+streamlit-option-menu
